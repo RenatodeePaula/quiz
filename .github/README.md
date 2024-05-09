@@ -1,4 +1,4 @@
-<h1 align="center">Quis Interativo</h1>
+<h1 align="center">Quiz Interativo</h1>
 
 <p align="center">
 #Projeto feito para estudo de JavaScript puro, um quiz com perguntas e respostas interativas.<br/>
